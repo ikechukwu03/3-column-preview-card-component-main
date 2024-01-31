@@ -26,7 +26,7 @@ body{
   padding: 1.25rem; 
   border-top-left-radius: 0.625rem;
   border-bottom-left-radius: 0.625rem; 
-  width: 21%; 
+  width: 21.5%; 
 }
 
 img{
@@ -59,6 +59,7 @@ img{
   border: 1px solid transparent;
   transition: border 1s ease;
   color:  hsl(31, 77%, 52%);
+  font-weight: 700;
 }
 .words1 button:hover{
   cursor: pointer;
@@ -69,7 +70,7 @@ img{
 
 .second-slide{
   padding: 1.25rem; 
-  width: 21%;
+  width: 21.5%;
   background-color: hsl(184, 100%, 22%);
 }
 
@@ -103,6 +104,7 @@ img{
   border: 1px solid transparent;
   transition: border 1s ease;
   color: hsl(184, 100%, 22%);
+  font-weight: 700;
 }
 .words2 button:hover{
   cursor: pointer;
@@ -113,7 +115,7 @@ img{
 
 .third-slide{
   padding: 1.25rem; 
-  width: 21%;
+  width: 21.5%;
   background-color: hsl(179, 100%, 13%);
   border-top-right-radius: 0.625rem;
   border-bottom-right-radius: 0.625rem; 
@@ -149,6 +151,7 @@ img{
   border: 1px solid transparent;
   transition: border 1s ease;
   color: hsl(179, 100%, 13%);
+  font-weight: 700;
 }
 .words3 button:hover{
   cursor: pointer;
